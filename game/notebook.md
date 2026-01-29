@@ -11,6 +11,11 @@
 - [ ] Letter Opener
 
 ## Notes
-*Use this space to record your findings and deductions...*
+The Baker & The Journalist are in the Residential Area.
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+The crime happened in the Residential Area/cottage/cellar!
+
+Places checked:
+- Residential Area
+- Residential Area/cottage
+- Residential Area/cottage/cellar

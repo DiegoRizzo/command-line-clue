@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Crystal Vase
 - [ ] Leather Gloves
-- [ ] Letter Opener
+- [X] Letter Opener
 
 ## Notes
 The Baker & The Journalist are in the Residential Area.
@@ -16,6 +16,10 @@ The Baker & The Journalist are in the Residential Area.
 The crime happened in the Residential Area/cottage/cellar!
 
 The clue in the greenhouse is telling me to check the park.
+
+Letter Opener found in the park.
+
+The clue in the park is telling me to check the cafe in the shops.
 
 Places checked:
 - Residential Area

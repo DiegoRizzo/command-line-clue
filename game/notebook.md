@@ -21,6 +21,8 @@ Letter Opener found in the park.
 
 The clue in the park is telling me to check the cafe in the shops.
 
+The clue in the cafe is telling me to check the aisles in the shops.
+
 Places checked:
 - Residential Area
 - Residential Area/cottage

@@ -58,3 +58,11 @@ Places checked:
 - shops/market
 - shops/market/stockroom
 - town hall
+- town hall/offices
+- town hall/offices/meeting rooms
+- town hall/offices/meeting rooms/council chamber
+- town hall/offices/records
+- town hall/offices/records/archives
+- school/gymnasium
+
+# He revisado todos los lugares en el juego. Encontre dos armas y dos personas, pero solo pude marcar una casilla. Es probable que este notebook no se haya generado correctamente, por lo que no puedo resolver el misterio.

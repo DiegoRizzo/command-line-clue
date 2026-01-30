@@ -25,6 +25,8 @@ The clue in the cafe is telling me to check the aisles in the shops.
 
 The clue in the aisles is telling me to check the cellar, which I already did.
 
+Paint Brush found in the town hall.
+
 Places checked:
 - Residential Area
 - Residential Area/cottage
@@ -33,3 +35,26 @@ Places checked:
 - Residential Area/mansion
 - Residential Area/mansion/garden
 - Residential Area/mansion/garden/greenhouse
+- park
+- shops/cafe
+- shops/market/aisles
+- Residential Area/mansion/library
+- Residential Area/mansion/library/study
+- park/gazebo
+- park/playground
+- park/playground/sandbox
+- park/pond
+- park/pond/dock
+- school
+- school/cafeteria
+- school/cafeteria/kitchen
+- school/classrooms
+- school/classrooms/art room
+- school/classrooms/science lab
+- shops
+- shops/bakery
+- shops/bakery/kitchen
+- shops/bakery/storage
+- shops/market
+- shops/market/stockroom
+- town hall

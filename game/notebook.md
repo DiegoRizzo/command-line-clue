@@ -23,6 +23,8 @@ The clue in the park is telling me to check the cafe in the shops.
 
 The clue in the cafe is telling me to check the aisles in the shops.
 
+The clue in the aisles is telling me to check the cellar, which I already did.
+
 Places checked:
 - Residential Area
 - Residential Area/cottage
